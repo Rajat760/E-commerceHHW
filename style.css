@@ -4,9 +4,21 @@
     overflow-wrap: break-word;
 }
 
-html {
-    background-color: rgb(204, 237, 244);
+.imgm {
+    /* width: 1263px; */
+    width: 100%;
+    cursor: pointer;
+    margin: auto;
+    display: block;
 }
+
+.qq {
+    width: 95%;
+}
+
+/* html {
+    background-color: rgb(204, 237, 244);
+} */
 
 body {
     /* background-image: linear-gradient(rgb(204, 237, 244) 20%, rgb(248, 223, 238), white); */
